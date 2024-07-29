@@ -37,6 +37,8 @@ Bachelor of Science in Information Technology
 
 ## Projects
 
- `PUP Medical Directory and Information Contact System (MEDICS)`
+[PUP Medical Direcotry and Information Contact System (MEDICS)](https://github.com/wpqu1/medicsapi)
  
  > Purpose-built for our undergraduate capstone project, MEDICS is an Android mobile application which serves as the bridge between the students and employees of the university and the medical services department. Developed using Flutter, Flask, and MySQL.
+
+
