@@ -1,13 +1,17 @@
 # About Me
 
-Hello World! I'm a junior software developer who's looking for work.
-
+``` 
+Hello World! I'm a junior software developer who's looking for work. 
 I can work on fullstack environments and I specialize on the backend.
+```
 
 ## Education
 
-**Polytechnic University of the Philippines**  
-_Bachelor of Science in Information Technology_ '24
+```
+Polytechnic University of the Philippines
+Bachelor of Science in Information Technology
+2020-2024
+```
 
 ## Languages
 
@@ -35,6 +39,4 @@ _Bachelor of Science in Information Technology_ '24
 
  `PUP Medical Directory and Information Contact System (MEDICS)`
  
- _Undergraduate Capstone Project_
- 
- An Android mobile application which serves as the bridge between the students and employees of the university and the medical services department. Developed using Flutter, Flask, and MySQL.
+ >> Purpose-built for our undergraduate capstone project, MEDICS is an Android mobile application which serves as the bridge between the students and employees of the university and the medical services department. Developed using Flutter, Flask, and MySQL.
