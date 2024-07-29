@@ -39,4 +39,4 @@ Bachelor of Science in Information Technology
 
  `PUP Medical Directory and Information Contact System (MEDICS)`
  
- >> Purpose-built for our undergraduate capstone project, MEDICS is an Android mobile application which serves as the bridge between the students and employees of the university and the medical services department. Developed using Flutter, Flask, and MySQL.
+ > Purpose-built for our undergraduate capstone project, MEDICS is an Android mobile application which serves as the bridge between the students and employees of the university and the medical services department. Developed using Flutter, Flask, and MySQL.
